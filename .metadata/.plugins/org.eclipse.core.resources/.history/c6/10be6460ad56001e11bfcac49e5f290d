@@ -1,0 +1,16 @@
+package w0919;
+
+public class forrr110 {
+
+	public static void main(String[] args) {
+		int num = 0;
+		int nu;
+
+		for(nu=1;nu<=10;nu++) {
+			num += nu;
+		}
+		System.out.print("1부터 10까지의 합은 "+num+" 입니다..");
+
+	}
+
+}

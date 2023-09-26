@@ -1,0 +1,15 @@
+package w0919;
+
+public class forrr110 {
+
+	public static void main(String[] args) {
+		int num = 0, nu;
+
+		for(nu=1;nu<10;nu++) {
+			num += nu;
+		}
+		System.out.print("1~10의 합은 "+num);
+
+	}
+
+}

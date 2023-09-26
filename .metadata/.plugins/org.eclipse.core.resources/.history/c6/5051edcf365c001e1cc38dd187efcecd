@@ -1,0 +1,15 @@
+package w0926;
+
+public class movie {
+
+	static void print_head() {
+		System.out.println("------------------------------------------------------------------------------------");		
+	}
+	
+	public static void main(String[] args) {
+		int [] s = new int[10];
+		print_head();
+		System.out.print(s);
+	}
+
+}
